@@ -2,7 +2,7 @@
    sphinx-quickstart on Mon Mar 18 15:47:15 2019.
 
 Partly's documentation
-===============
+=======================
 
 Note: Most of the things in this doc site are specific to SaaS Pegasus, and some of it isn't relevant to Partly
 
