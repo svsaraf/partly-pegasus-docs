@@ -20,14 +20,17 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Pegasus'
-copyright = '2023, Cory Zue'
-author = 'Cory Zue'
+copyright = '2023, Sanjay Saraf'
+author = 'Sanjay Saraf (based on Cory Zue\'s previous work)'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
 release = ''
 
+
+# -- Partly configuration (added 10/29/23) ----------------------------------------------------
+html_title = 'Partly documentation'
 
 # -- General configuration ---------------------------------------------------
 

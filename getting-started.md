@@ -1,6 +1,21 @@
 Getting Started
 ===============
 
+## Note: Most of the things in this doc site are specific to SaaS Pegasus, and some of it isn't relevant to Partly
+
+That's the starter template that we built the initial product with here at Partly. Over time we'll add to this documentation rather than starting from scratch. Note that not all parts of this documentation are relevant. For example, we use:
+* Docker installation (not python or any virtualenv stuff)
+* Tailwind (no other css)
+* Alpine / HTMX
+* Waffle for feature flags
+* Celery
+* Teams
+* Not stripe (stripe is in the partly app, but doesn't use dj-stripe)
+
+**To see Partly specific stuff, look at the top of the left sidebar.**
+
+----
+
 Here's everything you need to start your first Pegasus project.
 
 ## Watch the video

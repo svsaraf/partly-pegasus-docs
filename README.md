@@ -1,4 +1,9 @@
-# Pegasus Documentation
+# Partly's version of Pegasus Documentation
+
+This is a fork of docs.saaspegasus.com with extra docs for any changes we've made. 
+
+---
+
 
 Documentation for [SaaS Pegasus: the Django SaaS Boilerplate](https://www.saaspegasus.com/).
 
