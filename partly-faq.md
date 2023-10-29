@@ -13,7 +13,7 @@ Partly Developer FAQ
    git push origin master
 ```
 
-## How do we make changes to the Partly codebase?
+## How do we make changes to the Partly DOCS codebase?
 
 * Make a change or add a new markdown file
 * Add the file to index.rst
