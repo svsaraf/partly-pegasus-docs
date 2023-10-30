@@ -25,3 +25,9 @@ Partly Developer FAQ
    make html
    sphinx-autobuild . _build/html
 ```
+
+## How do I run django shell?
+
+```ssh 
+   docker compose exec web python manage.py shell
+```
