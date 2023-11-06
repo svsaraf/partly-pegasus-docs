@@ -44,3 +44,12 @@ Partly Developer FAQ
 ```ssh 
    docker compose exec web python manage.py shell
 ```
+
+## How do I add a new app?
+```ssh 
+mkdir ./apps/foo
+python manage.py startapp foo apps/foo
+rm apps/foo/apps.py
+# update settings.py to add apps.foo in installed apps
+# update urls.py to pull in foo views.
+```
