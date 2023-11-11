@@ -53,3 +53,9 @@ rm apps/foo/apps.py
 # update settings.py to add apps.foo in installed apps
 # update urls.py to pull in foo views.
 ```
+
+## How do I install a new python dependency
+1. Add the dependency in requirements.in
+```ssh 
+    make requirements
+```
