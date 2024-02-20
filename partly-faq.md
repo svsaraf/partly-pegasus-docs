@@ -42,7 +42,7 @@ Partly Developer FAQ
 ## How do I run django shell?
 
 ```ssh 
-   docker compose exec web python manage.py shell
+   make shell
 ```
 
 ## How do I add a new app?
