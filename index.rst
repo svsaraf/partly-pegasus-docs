@@ -33,6 +33,7 @@ contributions are most welcome!
    :maxdepth: 2
 
    partly-faq
+   partly-data-model
    getting-started
    customizations
    configuration
