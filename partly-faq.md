@@ -59,3 +59,11 @@ rm apps/foo/apps.py
 ```ssh 
     make requirements
 ```
+
+## How to connect Postico 2 to postgres locally?
+The way to connect Postico 2 to Postgres locally is first I added the ports line in Docker Compose YAML, and then I used the things in Docker Compose YAML to connect to Postgres.
+
+partly-neo as the database
+postgres as the username
+postgres as the password
+localhost 5432 as the host and port.
