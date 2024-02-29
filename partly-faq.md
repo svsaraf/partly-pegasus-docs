@@ -67,3 +67,22 @@ partly-neo as the database
 postgres as the username
 postgres as the password
 localhost 5432 as the host and port.
+
+## How do I inspect Alpine variables from the console?
+
+First select what you need:
+```javscript
+   
+   const divElement = document.querySelector('.flex.h-screen');
+   
+```
+
+Then use Alpine to pull in the data element
+
+```javscript
+   
+   x = Alpine.$data(divElement)
+   
+```
+
+x dot will show you all the variables and functions of the Alpine variable. 
